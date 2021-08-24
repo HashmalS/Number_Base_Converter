@@ -1,0 +1,7 @@
+content:
+- Theory
+- Check burgs
+- Check prefix ignoring the case
+- Comparing strings ignoring whitespaces
+- Extracting a substring
+- Replacing 'a' with 'b'
